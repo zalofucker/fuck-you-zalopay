@@ -2,17 +2,6 @@
 # Homepage: https://github.com/zalofucker/fuck-you-zalopay
 # ..............
 
-$TTL 86400
-@   IN  SOA localhost. root.localhost. (
-        2024010101  ; Serial (YYYYMMDDxx) # YYYYMMDDxx tự chỉnh
-        3600        ; Refresh
-        1800        ; Retry
-        604800      ; Expire
-        86400 )     ; Minimum TTL
-
-    IN  NS  localhost.
-
-; danh sách chặn cứng zalopay
 *.api.zalopay.vn CNAME .
 *.cdn.zalopay.com.vn CNAME .
 *.mnap-director.zalopay.vn CNAME .
