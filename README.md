@@ -179,6 +179,7 @@ Bước 4: Khởi động lại
 Bước 1: Tải file [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zalo/refs/heads/main/powerdns.rpz)
 
 Bước 2: Chuyển vào `/etc/knot-resolver/powerdns.rpz`
+
 Bước 3: Tạo file `/etc/powerdns/recursor.lua` với nội dung:
 ```
 rpzFile("/etc/powerdns/powerdns.rpz", {
