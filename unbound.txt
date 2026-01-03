@@ -1,0 +1,21 @@
+# Title: fuck-you-zalopay (unbounddns)
+# Homepage: https://github.com/zalofucker/fuck-you-zalopay
+# ..............
+
+local-zone: "api.zalopay.vn" always_null
+local-zone: "cdn.zalopay.com.vn" always_null
+local-zone: "mnap-director.zalopay.vn" always_null
+local-zone: "mp.zalopay.vn" always_null
+local-zone: "rdx.zalopay.vn" always_null
+local-zone: "s3-advertising.zalopay.vn" always_null
+local-zone: "s3-loyalty.zalopay.vn" always_null
+local-zone: "sapi.zalopay.vn" always_null
+local-zone: "sfont.zalopay.com.vn" always_null
+local-zone: "shield.zalopay.vn" always_null
+local-zone: "simg.zalopay.com.vn" always_null
+local-zone: "simg.zalopay.vn" always_null
+local-zone: "social.zalopay.vn" always_null
+local-zone: "tracking.zalopay.vn" always_null
+local-zone: "uudai.zalopay.vn" always_null
+local-zone: "zalopay.vn" always_null
+local-zone: "zlp-ofp-zpa-camera-config-be.zalopay.vn" always_null
