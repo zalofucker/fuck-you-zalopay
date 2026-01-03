@@ -18,4 +18,5 @@ social.zalopay.vn
 tracking.zalopay.vn
 uudai.zalopay.vn
 zalopay.vn
+zalopay.com.vn
 zlp-ofp-zpa-camera-config-be.zalopay.vn
