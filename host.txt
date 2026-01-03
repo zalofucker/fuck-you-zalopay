@@ -1,0 +1,21 @@
+# Title: fuck-you-zalopay (host)
+# Homepage: https://github.com/zalofucker/fuck-you-zalopay
+# ..............
+
+api.zalopay.vn
+cdn.zalopay.com.vn
+mnap-director.zalopay.vn
+mp.zalopay.vn
+rdx.zalopay.vn
+s3-advertising.zalopay.vn
+s3-loyalty.zalopay.vn
+sapi.zalopay.vn
+sfont.zalopay.com.vn
+shield.zalopay.vn
+simg.zalopay.com.vn
+simg.zalopay.vn
+social.zalopay.vn
+tracking.zalopay.vn
+uudai.zalopay.vn
+zalopay.vn
+zlp-ofp-zpa-camera-config-be.zalopay.vn
