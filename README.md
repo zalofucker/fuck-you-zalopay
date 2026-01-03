@@ -249,8 +249,6 @@ Bước 4: Dán danh sách trên vào ô đó.
 
 Bước 5: Nhấn Save và Apply Settings.
 # 🤝 Đóng góp 
-## Hiện tại tôi rất cần các bạn tìm ra những phốt của zalo để tôi up lên README vậy nên nếu bạn nào có vui lòng tạo issue giúp tôi!?!?!?
-
-Dự án này cần sự chung tay của cộng đồng để liên tục cập nhật các tên miền mới của Zalo
+Dự án này cần sự chung tay của cộng đồng để liên tục cập nhật các tên miền mới của ZaloPay
 
 Tạo một Issue/Pull mới thông báo vấn đề về việc chặn thiếu/bổ sung.
