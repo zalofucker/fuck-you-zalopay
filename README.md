@@ -260,7 +260,7 @@ Bước 2: Mở New Terminal.
 Bước 3: Sử dụng lệnh sau để nhập dữ liệu:
 
 
-```/import block-zalo.rsc```
+```/import mikrotik.rsc```
 
 
 **Nếu bạn không muốn tạo file, bạn cũng có thể copy toàn bộ nội dung script và dán (Paste) trực tiếp vào cửa sổ New Terminal là được.**
