@@ -3,6 +3,7 @@
 #**HIỆN TẠI CHUNG TÔI CẦN HỖ TRỢ XÂY DỰNG README TRONG VIỆC CÁCH SETUP BLOCKLIST!?!?!?!**
 
 Lấy lại quyền riêng tư và ủng hộ sử dụng các ứng dụng ví điện tử tốt hơn zalopay
+
 Dự án này cung cấp danh sách các tên miền (domains) và địa chỉ IP được sử dụng bởi Zalo (VNG) cho mục đích quảng cáo, theo dõi người dùng (tracking), và thu thập dữ liệu nền (telemetry), nhắn tin, máy chủ
 
 # ⚖️ Tuyên bố từ chối trách nhiệm
@@ -31,7 +32,7 @@ Chọn Add Blocklist -> Add a custom list.
 
 Dán [URL](https://raw.githubusercontent.com/zalofucker/fuck-you-zalopay/refs/heads/main/adblocker.txt) sau
 
-Đặt tên (ví dụ: zalo-fucker) và nhấn Save.
+Đặt tên (ví dụ: zalopay-fucker) và nhấn Save.
 
 ## 2. Pi-hole / OpenSnitch
 
@@ -77,7 +78,7 @@ Bước 1: Tạo file chứa danh sách chặn
 
 Mở Terminal.
 
-Tạo và mở file (ví dụ đặt tên là zaloblocklist.conf) (có thể dùng nano, vim,...):
+Tạo và mở file (ví dụ đặt tên là zalopayblocklist.conf) (có thể dùng nano, vim,...):
 
 ```sudo nano /etc/unbound/zaloblocklist.conf```
 
@@ -221,9 +222,9 @@ Bước 7: Về lại màn hình chính và nhấn nút Play (hình tam giác) �
 ## 9.dnsmasq
 Bước 1: Tải về file cấu hình [này](https://raw.githubusercontent.com/zalofucker/fuck-you-zalopay/refs/heads/main/dnsmasq.conf)
 
-Bước 2: Tạo một file cấu hình mới trong thư mục cấu hình của dnsmasq (VD:zalofucker)
+Bước 2: Tạo một file cấu hình mới trong thư mục cấu hình của dnsmasq (VD:zalopayfucker)
 
-```sudo nano /etc/dnsmasq.d/zalofucker.conf```
+```sudo nano /etc/dnsmasq.d/zalopayfucker.conf```
 
 Bước 3: Mở cái file cấu hình mới vừa tạo và dán những gì có trong file đã có ở bước 1 vào
 
