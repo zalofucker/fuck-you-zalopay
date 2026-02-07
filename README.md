@@ -72,6 +72,9 @@ Copy nội dung trong [file sau](https://raw.githubusercontent.com/zalofucker/fu
 
 Lưu lại (có thể cần quyền Admin/Sudo).
 
+**HIỆN TẠI ĐÃ RA MẮT CÔNG CỤ GIÚP BẠN CHẶN DỄ DÀNG HƠN, XEM QUA TẠI [ĐÂY](https://github.com/zalofucker/Tool-block-zalo)**
+
+
 ## 5.Unbound
 Bước 1: Tạo file chứa danh sách chặn
 Đầu tiên, hãy tạo một file mới để chứa danh sách các tên miền bạn muốn chặn.
